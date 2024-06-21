@@ -3,6 +3,8 @@ background-color: #e5f9f5;
 color: navy;
 font-size: 14px;
 font-family: Georgia, serif;
+border: 3px solid #fffdf6;
+border-radius: 10px;
 }
 
 h1 {
